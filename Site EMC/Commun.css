@@ -1,0 +1,56 @@
+#Fond
+{
+	width: 100%;
+	height: 95%;
+	background-color: #FFAC33;
+	align-content: center;
+	text-align: center;
+	border-bottom-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+	position: absolute;
+	top: 0px;
+
+}
+
+#Fond1
+{
+	width: 100%;
+	height: 98%;
+	background-color: white;
+	align-content: center;
+	text-align: center;
+	border-bottom-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+	position: absolute;
+	top: 0px;
+
+}
+
+#Fond2
+{
+	width: 100%;
+	height: 100%;
+	background-color: #2D30E9;
+	align-content: center;
+	text-align: center;
+	border-bottom-left-radius: 100%;
+	border-bottom-right-radius: 100%;
+	position: absolute;
+	top: 0px;
+
+}
+
+#Signature
+{
+	color: #2D30E9;
+}
+
+#Liens
+{
+	color: #2D30E9;
+}
+
+#Lien4
+{
+	background-color: #2D30E9;
+}

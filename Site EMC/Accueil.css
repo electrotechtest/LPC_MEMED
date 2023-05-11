@@ -1,0 +1,53 @@
+body
+{
+
+	background-color: white;
+	margin:0px;
+
+}
+
+#Titre
+{
+	text-align: center;
+	align-content: center;
+	height: 7.5%;
+	font-size: X-large;
+	color: #2D30E9;
+
+}
+
+#Intro
+{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height:30%;
+	color: white;
+
+}
+
+#Signature
+{
+	font-size: XXX-large;
+	height: 15%;
+	font-family: cursive;
+	text-align: center;
+	align-content: center;
+
+}
+
+#Liens
+{
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height: 6%;
+}
+
+a
+{
+	text-decoration:none;
+}
+

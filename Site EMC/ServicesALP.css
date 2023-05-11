@@ -1,0 +1,70 @@
+body
+{
+
+	background-color: #FFAC33;
+	margin:0px;
+
+}
+
+#Fond
+{
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+#Titre
+{
+	text-align: center;
+	align-content: center;
+	height: 5%;
+	color: black;
+
+}
+
+#Fondtexte
+{
+	width: 85%;
+	height: 320px;
+	margin: auto;
+	background: rgb(255,255,255,0.8);
+	border-radius: 13%;
+}
+
+#Texte
+{
+	width: 85%;
+	margin: auto;
+	text-align: left;
+}
+
+#Signature
+{
+	color: #2D30E9;
+	height: 3%;
+	font-family: cursive;
+	text-align: center;
+	align-content: center;
+}
+
+#Liens
+{
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height: 7%;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+p3
+{
+	font-size: large;
+}
+
+p5
+{
+	font-size: large;
+}

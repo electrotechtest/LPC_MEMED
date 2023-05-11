@@ -1,0 +1,149 @@
+body
+{
+
+	background-color: white;
+	margin:0px;
+
+}
+
+#Histoire
+{
+	margin-left: 0px;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	margin-top: 0px;
+}
+
+#Fond2
+{
+	position:relative;
+}
+
+#Titre
+{
+	text-align: center;
+	align-content: center;
+	height: 7.5%;
+	font-size: X-large;
+	color: #2D30E9;
+
+}
+
+#Intro
+{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height:30%;
+	color: white;
+
+}
+
+#Signature
+{
+	font-size: XXX-large;
+	height: 15%;
+	font-family: cursive;
+	text-align: center;
+	align-content: center;
+
+}
+
+#Liens
+{
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height: 6%;
+}
+
+a
+{
+	text-decoration:none;
+}
+
+#Memed
+{
+	background-size: 100%;
+	background-repeat: no-repeat;
+	height: 300px;
+	width: 300px;
+	background-color: none;
+	margin-left: 15%;
+	margin-top: -200px;
+	position: absolute;
+}
+
+#Fondtexte
+{
+	height: 300px;
+	width: 300px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	margin-left: 30%;
+	margin-top: -400px;
+	position: absolute;
+}
+
+#Texte
+{
+	width: 240px;
+	margin-left: 11%;
+	text-align: center;
+	align-content: center;
+	height:240px;
+	color: black;
+	border-radius: 35%;
+}
+
+#Continuer
+{
+	font-size: X-large;
+	height: 200%;
+	margin-left: 80%;
+	margin-top: 80px;
+}
+
+#Titre
+{
+	text-align: center;
+	align-content: center;
+	height: 7.5%;
+	font-size: X-large;
+	color: #2D30E9;
+
+}
+
+#Intro
+{
+	width: 50%;
+	margin: auto;
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height:30%;
+	color: white;
+
+}
+
+#Signature
+{
+	font-size: XXX-large;
+	height: 15%;
+	font-family: cursive;
+	text-align: center;
+	align-content: center;
+
+}
+
+#Liens
+{
+	text-align: center;
+	align-content: center;
+	font-size: X-large;
+	height: 6%;
+}
+
